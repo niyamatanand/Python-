@@ -1,4 +1,4 @@
-text = "    tAnIsHa VyAs      "
+text = "    nIyAmAt      "
 print('Changing case:'.upper())
 print(text.lower())
 print(text.upper())
@@ -9,7 +9,7 @@ print(txt)
 print("-".join(txt))
 
 print('\nReplace and finding:'.upper())
-txt = txt.replace(txt, "Tanisha Vyas")
+txt = txt.replace(txt, "Niyamat")
 print(txt)
 print(txt.find("s"))
 print(txt.count("a"))
