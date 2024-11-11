@@ -1,12 +1,12 @@
 print('Basic Return Statement:'.upper())
 def greet(name):
     return f"Hello, {name}!"
-print(greet("Tanisha"))
+print(greet("Niyamat"))
 
 print('\nReturning Multiple Values:'.upper())
 def greet(name, erp):
     return f"Hello, {name}! Your ERPID is {erp}."
-print(greet("Tanisha", '0221BCA066'))
+print(greet("Niyamat", '0221BCA153'))
 
 print('\nConditional Return:'.upper())
 def is_even(num):
@@ -27,13 +27,13 @@ print(check_positive(10))
 print('\nNo Explicit Return:'.upper())
 def greet(name):
     print(f"Hello, {name}!")
-greet("Tanisha")
+greet("Niyamat")
 
 print('\nDefault Parameter:'.upper())
-def greet(name="Tanisha"):
+def greet(name="Niyamat"):
     return f"Hello, {name}!"
 print(greet())
-print(greet("TV"))
+print(greet("Niyamat"))
 
 print('\nPositional Parameter:'.upper())
 def math(a, b, c):
