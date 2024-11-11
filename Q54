@@ -12,6 +12,6 @@ def repeat(num_times):
 @repeat(num_times=5)
 def greet(name):
     print(f"Hello, {name}!")
-greet("Tanisha")
+greet("NIYAMAT")
 
 print("\nThis program is written by Niyamat.")
