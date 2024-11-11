@@ -7,7 +7,7 @@ print()
 # Function with a default parameter
 def greet(name="Guest"):
     print("Hello", name)
-greet("Tanisha")
+greet("Niyamat")
 greet()
 print()
 # Function that demonstrates multiple returns
