@@ -1,5 +1,5 @@
 #Iterator
-a = 'Tanisha Vyas'
+a = ' Niyamat'
 
 print('Custom Iterator:')
 result = ' '.join(char for char in a)
